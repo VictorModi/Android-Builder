@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Proton）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/Rinko-Studio/android_kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
@@ -47,8 +47,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Google）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/Rinko-Studio/android_kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
@@ -102,7 +102,7 @@
     "toolchains": [
       {
         "repo": "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b",
-        "branch": "lineage-20.0",
+        "branch": "thirteen",
         "name": "clang",
         "binaryEnv": [
           "bin"
@@ -156,8 +156,8 @@
   {
     "kernelSource": {
       "name": "Xiaomi10S（Google-Docker）",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "repo": "https://github.com/Rinko-Studio/android_kernel_xiaomi_thyme",
+      "branch": "thirteen",
       "device": "thyme",
       "defconfig": "thyme_defconfig"
     },
